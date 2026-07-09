@@ -1,6 +1,6 @@
 # Project 1: Password Strength Checker
 
-**Track:** Defensive Logic — Security Fundamentals
+**Track:** Defensive Logic-Security Fundamentals
 **Skills:** String handling, conditional logic, entropy/validation basics
 
 ## Objective
