@@ -1,6 +1,6 @@
 # Project 3: Phishing Awareness Analysis
 
-**Track:** Threat Detection — Social Engineering Defense
+**Track:** Threat Detection-Social Engineering Defense
 **Skills:** Threat analysis, red-flag identification, triage decision-making
 
 ## Objective
