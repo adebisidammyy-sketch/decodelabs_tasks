@@ -5,7 +5,7 @@
 
 ## Objective
 
-Analyze sample phishing emails to identify deceptive tactics, apply a structured red-flag checklist, and reach a clear triage verdict (Safe / Suspicious / Malicious) for each — mirroring real Tier-1 SOC email-triage work.
+Analyze sample phishing emails to identify deceptive tactics, apply a structured red-flag checklist, and reach a clear triage verdict (Safe / Suspicious / Malicious) for each-mirroring real Tier-1 SOC email-triage work.
 
 ## Methodology
 
